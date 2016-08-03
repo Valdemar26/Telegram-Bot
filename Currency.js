@@ -1,7 +1,7 @@
 var TelegramBot = require('node-telegram-bot-api');
 var http = require('http');
 
-var token = '259523740:AAGoFUMjsr213zz5qdZtdHP1UZRdwSqQ6R0';
+var token = 'YOUR_INDIVIDUAL_TOKEN';
 var botOptions = {
     polling: true
 };
